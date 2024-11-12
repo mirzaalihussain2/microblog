@@ -1,8 +1,9 @@
+# Database
+app.db
+
 # Byte-compiled
 __pycache__
 app/__pycache__/
-
-
 
 # Virtual environments
 venv

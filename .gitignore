@@ -1,0 +1,11 @@
+# Byte-compiled
+__pycache__
+app/__pycache__/
+
+
+
+# Virtual environments
+venv
+
+# Environment variables and credentials
+.flaskenv

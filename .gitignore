@@ -10,3 +10,6 @@ venv
 
 # Environment variables and credentials
 .flaskenv
+
+# Logs
+logs/
